@@ -141,16 +141,15 @@
 
 ## 📂 Структура директорий
 
-qr-shtrikh-server/
-├── app.py # Основной код Flask API
-├── Dockerfile # Dockerfile для сервера
-├── requirements.txt # Зависимости сервера
-└── docker-compose.yml # Файл Docker Compose
+    qr-shtrikh-server/
+    ├── app.py # Основной код Flask API
+    ├── Dockerfile # Dockerfile для сервера
+    ├── requirements.txt # Зависимости сервера
+    └── docker-compose.yml # Файл Docker Compose
 
-qr-shtrikh-client/
-├── main.py # Основной код клиента PyQt6
-├── Dockerfile # (Опционально) Dockerfile для клиента
-└── requirements.txt # Зависимости клиента
+    qr-shtrikh-client/
+    ├── main.py # Основной код клиента PyQt6
+    └── requirements.txt # Зависимости клиента
 
 
 
