@@ -1,10 +1,7 @@
 # QR & Barcode Generator ✨
 
-Этот проект представляет собой систему для генерации **QR-кодов** и **штрих-кодов (Code-128)** с поддержкой русского и английского языков, а также специальных символов. Он состоит из двух частей:
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
-1. **Сервер** (API) для генерации QR-кодов и штрих-кодов.
-2. **Графический клиент** для удобного взаимодействия с сервером.
 > Generate QR codes and Code-128 barcodes with ease!  Supports Russian, English, and special characters.
 
 ---
