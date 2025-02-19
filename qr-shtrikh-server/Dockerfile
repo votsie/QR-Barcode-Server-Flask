@@ -15,7 +15,7 @@ COPY . /app
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Открываем порт 5000 для связи с Flask
-# Expose port 7957 to allow communication with Flask
+# Expose port 5000 to allow communication with Flask
 EXPOSE 5000
 
 # Запускаем приложение
